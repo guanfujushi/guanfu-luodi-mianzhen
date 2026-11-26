@@ -4,6 +4,8 @@
 
 **作者：观复居士 ·商务合作：13148728713；微信号：guanfujs**
 
+[![SkillHub](https://img.shields.io/badge/下载-SkillHub-orange)](https://www.skillhub.cn/skills/guanfu-luodi-mianzhen)
+
 **English**: Landing-page conversion self-check using the TCM four examinations — observe the first screen, listen to comments, ask visitors, feel the data — plus five non-conversion patterns and targeted fixes.
 
 ---
